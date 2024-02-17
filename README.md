@@ -1,0 +1,2 @@
+# testnet-subsquid
+l
